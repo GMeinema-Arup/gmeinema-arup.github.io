@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt-light" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+remote_theme             : "mmistakes/minimal-mistakes" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Guus Meinema / Resume 2026"
 title_separator          : "-"
 name                     : &name "Guus Meinema"
@@ -311,6 +311,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-include-cache
   - jemoji
 
 # Mimic GitHub Pages with --safe
