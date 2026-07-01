@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 remote_theme             : "mmistakes/minimal-mistakes" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Guus Meinema / Resume 2026"
+title                    : "Guus Meinema"
 title_separator          : "-"
 name                     : &name "Guus Meinema"
 description              : &description "Guus Meinema's resume"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : "gmeinema-arup/guusmeinema.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg" # filename of avatar image placed in /images/ for author profile
   name             : "Guus Meinema"
   pronouns         : # example: "she/her"  
-  bio              : "Bridge Engineer at Arup, passionate about computational design."
+  bio              : "Bridge Engineer @ Arup"
   location         : "Amsterdam, The Netherlands"
   employer         : "Arup"
   uri              : # URL
