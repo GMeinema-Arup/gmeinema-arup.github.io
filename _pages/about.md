@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: default
 nav: about
 title: ""
 permalink: /
