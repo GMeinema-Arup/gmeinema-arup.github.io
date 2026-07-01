@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt-light" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Guus Meinema / Resume 2026"
 title_separator          : "-"
 name                     : &name "Guus Meinema"
@@ -30,7 +30,6 @@ author:
   location         : "Amsterdam, The Netherlands"
   employer         : "Arup"
   uri              : # URL
-  email            : "guus.meinema@arup.com" 
 
   # Academic websites
   academia         : # URL
