@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: clean
 nav: projects
 permalink: /projects/
 title: "Projects"
