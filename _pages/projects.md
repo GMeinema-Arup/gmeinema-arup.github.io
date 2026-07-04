@@ -1,5 +1,6 @@
 ---
 layout: archive
+nav: projects
 title: "Projects"
 permalink: /projects/
 author_profile: true
