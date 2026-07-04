@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 nav: about
 title: ""
 permalink: /

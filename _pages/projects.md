@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 nav: projects
 permalink: /projects/
 title: "Projects"
