@@ -94,30 +94,3 @@ Personal interests
 * Mountaineering
 * Photography
 * Reading
-
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Service and leadership
-======
-* Director at Stud, responsible for company account management, marketing, and public relations.
-* Trainee at STEORR, contributing to multidisciplinary research on flood protection and climate resilience.
