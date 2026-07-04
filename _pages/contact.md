@@ -1,11 +1,8 @@
 ---
 layout: single
 nav: contact
-title: "Contact"
 permalink: /contact/
 ---
-
-### Contact
 
 📧 **Email**  
 

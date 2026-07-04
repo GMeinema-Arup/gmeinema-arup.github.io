@@ -1,7 +1,6 @@
 ---
 layout: single
 nav: about
-title: "About"
 permalink: /
 redirect_from:
   - /about/

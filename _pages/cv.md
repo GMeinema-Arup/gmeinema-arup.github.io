@@ -2,7 +2,6 @@
 layout: single
 nav: cv
 permalink: /cv/
-title: "CV"
 ---
 
 {% include base_path %}

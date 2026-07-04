@@ -1,12 +1,13 @@
-professional:
+Bridge Engineering:
   - title: "TEST"
     org: "Arup"
     year: 2025
     location: "Netherlands"
     description: "Test"
-side_jobs:
+Non-Profit:
   - title: "TEST"
     org: "Arup"
     year: 2025
     location: "Netherlands"
     description: "Test"
+    image: "/images/DSCF1339.JPG"

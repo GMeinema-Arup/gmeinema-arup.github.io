@@ -2,6 +2,5 @@
 layout: project
 nav: projects
 permalink: /projects/
-title: "Projects"
-lead: "Selected professional work and side projects."
+lead: "Selected bridge engineering work and non-profit initiatives."
 ---
