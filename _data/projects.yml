@@ -1,16 +1,8 @@
 professional:
-  - title: "Haringvliet Bridge Strengthening"
+  - title: "TEST"
     org: "Arup"
     year: 2025
     location: "Netherlands"
-    image: "/images/projects/haringvliet.jpg"
-    description: "Assessment and strengthening design of a major prestressed concrete motorway bridge."
-    url: "/portfolio/haringvliet-bridge/"
-
-  - title: "ARP Tool Development"
-    org: "Arup"
-    year: 2025
-    location: "Netherlands"
-    image: "/images/projects/arp-tool.jpg"
-    description: "Development of a parametric assessment and reporting workflow for Rijkswaterstaat."
-    url: "/portfolio/arp-tool/"
+    image: "/images/msc_thesis_design.png"
+    description: "Test"
+    url: "/projects/test/"
