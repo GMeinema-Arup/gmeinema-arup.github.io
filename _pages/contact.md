@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: simple
 nav: contact
 permalink: /contact/
 ---
