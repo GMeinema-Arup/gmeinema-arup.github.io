@@ -1,10 +1,11 @@
-Bridge Engineering:
+bridge_engineering:
   - title: "TEST"
     org: "Arup"
     year: 2025
     location: "Netherlands"
     description: "Test"
-Non-Profit:
+    image: "/images/DSCF1339.JPG"
+non_profit:
   - title: "TEST"
     org: "Arup"
     year: 2025
