@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: single
 nav: about
 permalink: /
 redirect_from:
