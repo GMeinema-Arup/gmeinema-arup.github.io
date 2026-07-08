@@ -8,6 +8,7 @@ date: 2023-01-01
 venue: 'Delft University of Technology (TU Delft)'
 paperurl: 'https://repository.tudelft.nl/record/uuid:3fa2160c-f2e2-4f81-90d8-9a6f56f856ed'
 citation: 'van Dongen, E.M., Houben, T.N., Kwa, C.M., de Man, M., Meinema, G.P.F., & van Vliet, J.G. (2023). "Research on Waterlogging and Interventions in Ricanau Mofo: Scientific Study on Mitigating Water Nuisance through Socio-Technical Intervention Assessment". Student Report, Delft University of Technology.'
+teaser: '/images/DSCF1339.JPG'
 ---
 This multidisciplinary research project investigates how Ricanau Mofo, a low-lying village in Suriname, can become more water-adaptive and sustainable while facing increasing challenges from land erosion, riverbank erosion, changing rainfall patterns and sea level rise. The study evaluates interventions that balance technical effectiveness with cultural preservation, accessibility, affordability and ease of maintenance. 【1-59f505】
 
