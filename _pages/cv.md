@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: clean
 nav: cv
 permalink: /cv/
 ---
