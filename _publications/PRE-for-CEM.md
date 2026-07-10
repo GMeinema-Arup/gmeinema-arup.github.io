@@ -5,10 +5,10 @@ category: educational-resources
 permalink: /publication/2023-pre-for-cem
 excerpt: 'An open educational resource developed to help prospective MSc Civil Engineering students assess and refresh prerequisite knowledge before starting their studies at TU Delft.'
 date: 2023-01-01
-venue: 'Delft University of Technology (TU Delft)'
-paperurl: 'https://repository.tudelft.nl/record/uuid:85a5ad57-120a-4c10-acfc-5cef5b7a3512'
+venue: 'TU Delft Teachbooks'
+paperurl: 'https://tudelft-citg.github.io/pre-for-cem/contents/home.html'
 citation: 'Kisa, M., Farahat, A., Meinema, G., Portillo Arreguin, D.M., & Schipper, H.R. (2023). "PRE-for-CEM: Prerequisite Knowledge for Civil Engineering Master". Web Publication, Delft University of Technology.'
-teaser: '/images/DSCF1339.JPG'
+teaser: '/images/pre_for_cem.png'
 ---
 PRE-for-CEM is an open educational resource developed to support prospective MSc Civil Engineering students at Delft University of Technology. The project provides a structured overview of prerequisite knowledge required to successfully start the master's programme and helps students identify areas where additional preparation may be beneficial. 【1-f663d5】
 
