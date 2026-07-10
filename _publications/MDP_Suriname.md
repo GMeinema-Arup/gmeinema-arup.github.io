@@ -5,7 +5,7 @@ category: reports
 permalink: /publication/2023-research-on-waterlogging-and-interventions-in-ricanau-mofo
 excerpt: 'Multidisciplinary research investigating waterlogging, erosion and climate adaptation strategies for the Surinamese village of Ricanau Mofo through socio-technical intervention assessment.'
 date: 2023-01-01
-venue: 'Delft University of Technology (TU Delft)'
+venue: 'TU Delft'
 paperurl: 'https://repository.tudelft.nl/record/uuid:3fa2160c-f2e2-4f81-90d8-9a6f56f856ed'
 citation: 'van Dongen, E.M., Houben, T.N., Kwa, C.M., de Man, M., Meinema, G.P.F., & van Vliet, J.G. (2023). "Research on Waterlogging and Interventions in Ricanau Mofo: Scientific Study on Mitigating Water Nuisance through Socio-Technical Intervention Assessment". Student Report, Delft University of Technology.'
 teaser: '/images/DSCF1339.JPG'
