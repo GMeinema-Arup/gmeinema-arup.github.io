@@ -1,6 +1,6 @@
 :root{
-    --accent:#1F4E79; --accent-soft:#2e5e96;
-    --ink:#22272e; --muted:#6b7280; --hair:#e5e7eb; --bg:#ffffff; --tint:#f6f8fa;
+    --accent:#22272e; --accent-soft:#22272e;
+    --ink:#22272e; --muted:#22272e; --hair:#e5e7eb; --bg:#ffffff; --tint:#f6f8fa;
     --serif:'EB Garamond', Georgia, serif;
     --sans:-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
   }
