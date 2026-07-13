@@ -55,9 +55,9 @@
   .thumb img{width:100%; height:100%; object-fit:cover; display:block; transition:transform .5s cubic-bezier(.2,.7,.2,1)}
   .card:hover .thumb img{transform:scale(1.06)}
   .thumb.ph{display:flex; align-items:center; justify-content:center; background:linear-gradient(135deg,#eef2f7,#e2e8f1)}
-  .thumb.ph span{font-family:var(--sans); font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:#9aa6b2}
+  .thumb.ph span{font-family:var(--sans); font-size:11px; letter-spacing:.09em; text-transform:none; color:#9aa6b2}
   .card .body{padding:18px 20px 20px; display:flex; flex-direction:column; flex:1}
-  .venue{font-family:var(--sans); font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--accent); font-weight:600; margin:0 0 8px}
+  .venue{font-family:var(--sans); font-size:11px; letter-spacing:.09em; text-transform:none; color:var(--accent); font-weight:600; margin:0 0 8px}
   .card .title{font-size:21px; font-weight:600; line-height:1.25; margin:0 0 8px}
   .card .title a{color:var(--ink); text-decoration:none; transition:color .25s ease}
   .card:hover .title a{color:var(--accent)}
@@ -77,12 +77,12 @@
   .rthumb img{width:100%; height:100%; object-fit:cover; transition:transform .45s cubic-bezier(.2,.7,.2,1)}
   .prow:hover .rthumb img{transform:scale(1.07)}
   .rthumb.ph{display:flex; align-items:center; justify-content:center; background:linear-gradient(135deg,#eef2f7,#e2e8f1)}
-  .rthumb.ph span{font-family:var(--sans); font-size:9px; letter-spacing:.08em; text-transform:uppercase; color:#aab4bf}
+  .rthumb.ph span{font-family:var(--sans); font-size:9px; letter-spacing:.08em; text-transform:none; color:#aab4bf}
   .rbody{flex:1; min-width:0}
   .rtitle{font-size:19px; font-weight:600; line-height:1.25; margin:0}
   .rtitle a{text-decoration:none; color:var(--ink); transition:color .2s ease}
   .prow:hover .rtitle a{color:var(--accent)}
-  .rmeta{font-family:var(--sans); font-size:12px; letter-spacing:.04em; color:var(--accent); margin:2px 0 4px; text-transform:uppercase}
+  .rmeta{font-family:var(--sans); font-size:12px; letter-spacing:.04em; color:var(--accent); margin:2px 0 4px; text-transform:none}
   .rauth{font-size:15px; color:var(--muted); margin:0}
   .rauth .me{color:var(--ink); font-weight:600}
   .rlink{flex:none; font-family:var(--sans); font-size:13px}
@@ -268,7 +268,7 @@ body{ background:var(--bg); }
 .proj-back:hover{opacity:.8}
 
 .proj-main{padding-top:46px; padding-bottom:40px}
-.proj-venue{font-family:var(--sans); font-size:12px; letter-spacing:.09em; text-transform:uppercase;
+.proj-venue{font-family:var(--sans); font-size:12px; letter-spacing:.09em; text-transform:none;
   color:var(--accent); font-weight:600; margin:0 0 12px; text-align:center}
 .proj-title{font-size:38px; line-height:1.16; font-weight:600; color:var(--ink);
   text-align:center; margin:0 auto 18px; max-width:18ch}
