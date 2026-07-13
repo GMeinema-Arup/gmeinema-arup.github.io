@@ -61,6 +61,7 @@ redirect_from:
       <strong>Trainee</strong> @ STEORR 
       <br> (Autumn 2023)
       <br> Participated in multidisciplinary research on flood protection in Suriname.
+    <li>
   </ul>
 
   <h2>Personal interests</h2>
@@ -72,5 +73,3 @@ redirect_from:
   <p>
     <a href="{{ '/contact/' | relative_url }}">Click here to get in touch</a>!
   </p>
-
-</section>
