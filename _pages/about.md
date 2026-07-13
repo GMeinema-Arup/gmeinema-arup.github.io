@@ -12,7 +12,8 @@ redirect_from:
 <section class="about reveal">
 
   <p>
-    Hi there! I am a Bridge Engineer at <"https://www.arup.com/">Arup</a> based in the Amsterdam office, specialising in the analysis, assessment, strengthening and design of bridge structures. I have contributed to a range of Dutch infrastructure projects, including concrete substructure strengthening, bridge assessments and the design of temporary bridge structures. I enjoy supporting conceptual bridge design studies, taking projects from early typology and feasibility investigations through to detailed structural design. My interests lie in combining traditional structural engineering with digital and parametric design approaches to create practical and innovative infrastructure solutions.
+    <br>Hi there! 
+    <br>I am a Bridge Engineer at <a href="https://www.arup.com/">Arup</a> based in the Amsterdam office, specialising in the assessment, strengthening and design of bridge structures. I have contributed to a range of Dutch infrastructure projects, including concrete substructure strengthening, bridge assessments and the design of temporary bridge structures. I enjoy supporting conceptual bridge design studies, taking projects from early typology and feasibility investigations through to detailed structural design. My interests lie in combining traditional structural engineering with digital and parametric design approaches to create practical and innovative infrastructure solutions.
   </p>
 
   <h2>Education</h2>
@@ -59,14 +60,13 @@ redirect_from:
     <li>
       <strong>Trainee</strong> @ STEORR 
       <br> (Autumn 2023)
-        <li>Participated in multidisciplinary research on flood protection in Suriname.
-    </li>
+      <br> Participated in multidisciplinary research on flood protection in Suriname.
   </ul>
 
   <h2>Personal interests</h2>
 
   <p>
-    I enjoy running, mountaineering, photography, and reading.
+    I enjoy running, mountaineering, photography and reading.
   </p>
 
   <p>
