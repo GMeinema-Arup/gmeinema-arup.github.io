@@ -8,5 +8,5 @@ date: 2024-01-01
 venue: 'TU Delft Teachbooks'
 paperurl: 'https://teachbooks.io/Structural_Design_Essentials/main/intro.html#'
 citation: 'Snijder, A.H., Schipper, H.R., Pasterkamp, S., Schuurman, A.C.B., van den Boogaard, M.S., van Vliet, N.A., & Meinema, G. (2024). "Structural Design Essentials". Web Publication, Delft University of Technology.'
-teaser: '/images/SDE.png'
+teaser: '/images/publications/SDE.png'
 ---

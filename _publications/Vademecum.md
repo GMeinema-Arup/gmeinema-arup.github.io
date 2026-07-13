@@ -8,7 +8,7 @@ date: 2024-01-01
 venue: 'TU Delft Teachbooks'
 paperurl: 'https://teachbooks.io/vademecum/main/intro.html'
 citation: 'Snijder, A.H., Schipper, H.R., Pasterkamp, S., Schuurman, A.C.B., van den Boogaard, M.S., van Vliet, N.A., & Meinema, G. (2024). "Vademecum voor Draagconstructies van Gebouwen (Versie 3)". Web Publication, Delft University of Technology.'
-teaser: '/images/vademecum.png'
+teaser: '/images/publications/vademecum.png'
 ---
 The *Vademecum voor Draagconstructies van Gebouwen* is an educational resource developed for Architecture students at Delft University of Technology. It serves as a practical reference guide supporting structural design projects and engineering coursework by providing accessible structural engineering knowledge for the early stages of design. 【1-9ae8f2】
 
