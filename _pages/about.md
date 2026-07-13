@@ -49,7 +49,8 @@ redirect_from:
       <br> Master thesis research on strengthening prestressed concrete T-beams.
     </li>
     <li>
-      <strong>Director</strong> @ Stud (August 2021–August 2022)
+      <strong>Director</strong> @ Stud 
+      <br> (August 2021–August 2022)
       <br> Developed communication, organisation and stakeholder management skills.
     </li>
   </ul>
