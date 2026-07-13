@@ -2,7 +2,7 @@
     --accent:#22272e; --accent-soft:#22272e;
     --ink:#22272e; --muted:#22272e; --hair:#e5e7eb; --bg:#ffffff; --tint:#f6f8fa;
     --serif:'EB Garamond', Georgia, serif;
-    --sans:-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+    --sans: Georgia, Cambria, "Times New Roman", Times, serif;
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
