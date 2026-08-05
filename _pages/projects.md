@@ -2,13 +2,10 @@
 layout: clean
 nav: projects
 permalink: /projects/
-lead: "Selected bridge engineering work and non-profit initiatives."
 ---
 
-<p class="lead">Bridge Engineering and Non-Profit Engineering work</p>
-
 {% assign groups = "bridge_engineering,non_profit" | split: "," %}
-{% assign labels = "Bridge Engineering, Non-Profit" | split: "," %}
+{% assign labels = "bridge_engineering, non-profit" | split: "," %}
 {% for g in groups %}
   {% assign items = site.data.projects[g] %}
   {% if items and items.size > 0 %}

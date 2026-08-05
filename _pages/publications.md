@@ -1,5 +1,6 @@
 ---
 layout: clean
+nav: publications
 permalink: /publications/
 ---
 
