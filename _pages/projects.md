@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 {% assign groups = "bridge_engineering,non_profit" | split: "," %}
-{% assign labels = "bridge_engineering, non-profit" | split: "," %}
+{% assign labels = "Bridge engineering, Non-profit" | split: "," %}
 {% for g in groups %}
   {% assign items = site.data.projects[g] %}
   {% if items and items.size > 0 %}

@@ -3,25 +3,25 @@ bridge_engineering:
     org: "Arup Amsterdam"
     year: 2026
     location: "Rotterdam, The Netherlands"
-    description: "For the Haringvliet Bridge replacement project, I conducted archival research of historical drawings, calculations, and inspection data, contributed to the development of substructure models, and supported multidisciplinary studies, risk assessments, and option evaluations to help identify a preferred replacement strategy."
+    description: "Conducted archival research of historical drawings, developed substructure models, and performed option evaluations to help identify a preferred replacement strategy."
     image: "images/projects/Arup_Black_RGB.png"
   - title: "Parkhaven Bridge Design"
     org: "TU Delft"
     year: 2024
     location: "Rotterdam, The Netherlands"
-    description: "Designed a new pedestrian and cycling bridge over the Parkhaven in Rotterdam as part of a sustainable urban mobility connection. The project involved site and context analyses, the development and comparison of bridge concepts, and the design of an optimised hybrid truss-arch structure. Structural analyses, including load assessments, internal force calculations, and stability checks, were carried out to support the concept design."
+    description: "Designed a new pedestrian and cycling bridge over the Parkhaven in Rotterdam. The project involved site and context analyses, comparison of bridge concepts, and creating a final design proposal."
     image: "images/projects/Arup_Black_RGB.png"
   - title: "Master Thesis"
     org: "TU Delft"
     year: 2025
     location: "Delft, The Netherlands"
-    description: "Investigated the assessment and strengthening of prestressed concrete T-girder bridges, focusing on residual capacity and life extension strategies. The project involved Eurocode-based structural evaluations and the development of numerical models to analyse girder behaviour under various loading conditions and strengthening concepts."
+    description: "Investigated the assessment and strengthening of prestressed concrete T-girders, focusing on residual capacity and life extension strategies."
     image: "images/projects/Arup_Black_RGB.png"
   - title: "ARP"
     org: "Arup Amsterdam"
     year: 2025
     location: "Amsterdam, The Netherlands"
-    description: "Developed the reference calculation for prefab infill girders as the technical basis for an automated bridge assessment procedure. This included interpreting RBK, ROK, and Eurocode requirements, setting up SCIA models, and helping digitalise structural assessments so existing bridges can be checked more efficiently and consistently."
+    description: "Developed the reference calculation for prefab infill girders as the technical basis for an automated bridge assessment procedure."
     image: "images/projects/Arup_Black_RGB.png"
 
 non_profit:
@@ -29,11 +29,11 @@ non_profit:
     org: "STEORR"
     year: 2023
     location: "Suriname"
-    description: "As trainee at STEORR, I developed flood protection measures for Ricanau Mofo, Suriname. Working with students and professionals from various disciplines, I applied civil and water engineering knowledge in an international context to support climate adaptation and community resilience."
+    description: "As trainee at STEORR, I developed flood protection measures for Ricanau Mofo, Suriname."
     image: "/images/projects/DSCF1339.JPG"
   - title: "PWS"
     org: "Stedelijk Gymnasium Nijmegen"
     year: 2017
     location: "Nijmegen, The Netherlands"
-    description: "Designed and built a scale cable-stayed bridge, applying structural principles such as load transfer, equilibrium, and tension-compression behaviour. The project included the detailing and construction of connections between the deck, cables, and pylon, resulting in a stable and functional bridge system."
+    description: "Designed and built a scale cable-stayed bridge, applying structural principles such as load transfer, equilibrium, and tension-compression behaviour."
     image: "images/projects/Arup_Black_RGB.png"
