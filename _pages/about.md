@@ -14,7 +14,7 @@ redirect_from:
   <p>
     <br>Hi there! 
     <br>
-    <br>I am a Bridge Engineer at <a href="https://www.arup.com/">Arup</a> based in the Amsterdam office, specialising in the assessment, strengthening and design of bridge structures. I have contributed to a range of Dutch infrastructure projects, including concrete substructure strengthening, bridge assessments and the design of temporary bridge structures. I enjoy supporting conceptual bridge design studies, taking projects from early typology and feasibility investigations through to detailed structural design. My interests lie in combining traditional structural engineering with digital and parametric design approaches to create practical and innovative infrastructure solutions.
+    <br>I am a Bridge Engineer at <strong><a href="https://www.arup.com/">Arup</a></strong> based in the Amsterdam office, specialising in the assessment, strengthening and design of bridge structures. I have contributed to a range of Dutch infrastructure projects, including concrete substructure strengthening, bridge assessments and the design of temporary bridge structures. I enjoy supporting conceptual bridge design studies, taking projects from early typology and feasibility investigations through to detailed structural design. My interests lie in combining traditional structural engineering with digital and parametric design approaches to create practical and innovative infrastructure solutions.
   </p>
 
   <h2>Education</h2>
@@ -73,5 +73,5 @@ redirect_from:
   </p>
 
   <p>
-    <a href="{{ '/contact/' | relative_url }}">Click here to get in touch</a>!
+    <strong><a href="{{ '/contact/' | relative_url }}">Click here to get in touch!</a></strong>
   </p>
