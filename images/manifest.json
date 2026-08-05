@@ -10,12 +10,12 @@ permalink: /images/manifest.json
 	"lang": {{ site.locale | default: "en" | jsonify }},
 	"icons": [
 		{
-			"src": "/images/folder_icon-250x250.png",
+			"src": "/images/favicon-250x250.png",
 			"sizes": "250x250",
 			"type": "image/png"
 		},
 		{
-			"src": "/images/folder_icon-500x500.png",
+			"src": "/images/favicon-500x500.png",
 			"sizes": "500x500",
 			"type": "image/png"
 		}
