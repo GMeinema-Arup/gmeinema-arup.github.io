@@ -22,7 +22,7 @@ bridge_engineering:
     year: 2025
     location: "Amsterdam, The Netherlands"
     description: "Developed the reference calculation for prefab infill girders as the technical basis for an automated bridge assessment procedure."
-    image: "images/projects/Arup_Black_RGB.png"
+    image: "images/projects/ARP.jpg"
 
 non_profit:
   - title: "Multi-Disciplinary Project"
@@ -36,4 +36,4 @@ non_profit:
     year: 2017
     location: "Nijmegen, The Netherlands"
     description: "Designed and built a scale cable-stayed bridge, applying structural principles such as load transfer, equilibrium, and tension-compression behaviour."
-    image: "images/projects/Arup_Black_RGB.png"
+    image: "images/projects/MDP.jpg"
