@@ -30,10 +30,10 @@ non_profit:
     year: 2023
     location: "Suriname"
     description: "As trainee at STEORR, I developed flood protection measures for Ricanau Mofo, Suriname."
-    image: "/images/projects/DSCF1339.JPG"
+    image: "/images/projects/MDP.jpg"
   - title: "PWS"
     org: "Stedelijk Gymnasium Nijmegen"
     year: 2017
     location: "Nijmegen, The Netherlands"
     description: "Designed and built a scale cable-stayed bridge, applying structural principles such as load transfer, equilibrium, and tension-compression behaviour."
-    image: "images/projects/MDP.jpg"
+    image: "images/projects/PWS.jpg"
