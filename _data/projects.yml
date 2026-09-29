@@ -23,6 +23,12 @@ bridge_engineering:
     location: "Amsterdam, The Netherlands"
     description: "Developed the reference calculation for prefab infill girders as the technical basis for an automated bridge assessment procedure."
     image: "images/projects/ARP.jpg"
+  - title: "Design Exploration"
+    org: "Arup Amsterdam"
+    year: 2026
+    location: "Amsterdam, The Netherlands"
+    description: "Self-study on the design of the Haringvlietbrug substructure, to get familiar with design exploration using Colibri and Grasshopper."
+    image: "images/projects/Design_Exploration.jpg"
 
 non_profit:
   - title: "Multi-Disciplinary Project"
