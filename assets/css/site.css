@@ -1,6 +1,6 @@
 :root{
     --accent:#22272e; --accent-soft:#22272e;
-    --ink:#22272e; --muted:#22272e; --hair:#ffffff; --bg:#ffffff; --tint:#f6f8fa;
+    --ink:#22272e; --muted:#22272e; --hair:#e5e7eb; --bg:#ffffff; --tint:rgb(246, 248, 250);
     --serif:'EB Garamond', Georgia, serif;
     --sans: Georgia, Cambria, "Times New Roman", Times, serif;
   }
@@ -166,7 +166,7 @@
    ========================================================= */
 :root{ --bg:#ffffff; }                 /* warm off-white page */
 body{ background:var(--bg); }
-.topnav{ background:rgba(247,246,242,.82); }
+.topnav{ background:rgb(255, 255, 255); }
 
 /* profile becomes a white card that anchors the left column */
 .profile{ background:#fff; border:1px solid var(--hair); border-radius:14px;
