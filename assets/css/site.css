@@ -164,7 +164,7 @@
    Warmer palette — soft off-white page, white surfaces
    (tweak --bg below to taste, or comment this block out)
    ========================================================= */
-:root{ --bg:#f7f6f2; }                 /* warm off-white page */
+:root{ --bg:#ffffff; }                 /* warm off-white page */
 body{ background:var(--bg); }
 .topnav{ background:rgba(247,246,242,.82); }
 
