@@ -1,6 +1,6 @@
 :root{
     --accent:#22272e; --accent-soft:#22272e;
-    --ink:#22272e; --muted:#22272e; --hair:#e5e7eb; --bg:#ffffff; --tint:#f6f8fa;
+    --ink:#22272e; --muted:#22272e; --hair:#ffffff; --bg:#ffffff; --tint:#f6f8fa;
     --serif:'EB Garamond', Georgia, serif;
     --sans: Georgia, Cambria, "Times New Roman", Times, serif;
   }
