@@ -3,4 +3,27 @@ layout: clean
 permalink: /projects/haringvliet_bridge_replacement/
 ---
 
-<h1 class="page-title">Haringvliet</h1>
+<img class="project-detail-image" src="{{ '/images/projects/HVB.jpg' | relative_url }}" alt="Haringvliet Bridge Replacement">
+
+<h1 class="page-title">Haringvliet Bridge Replacement</h1>
+
+<p>
+    <br> Conducted archival research of historical drawings, developed substructure models, and performed option evaluations to help identify a preferred replacement strategy.
+</p>
+
+  <h2>Skills learned</h2>
+
+  <ul>
+    <li>
+      <br> Rhino & Grasshopper
+    </li>
+    <li>
+      <br> GSA
+    </li>
+    <li>
+      <br> Developing and comparing Transport & Installation (T&I) concepts
+    </li>
+    <li>
+      <br> Investigating transport and lifting strategies
+    </li>
+  </ul>

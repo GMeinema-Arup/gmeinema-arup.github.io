@@ -142,6 +142,7 @@
 
 /* page title in the content column (replaces the old big hero) */
 .page-title{font-size:30px; font-weight:600; color:var(--accent); margin:0 0 4px}
+.project-detail-image{display:block; width:100%; height:auto; margin:0 0 20px; border-radius:10px}
 .content .lead{color:var(--muted); font-size:18px; margin:2px 0 8px}
 .content > section:first-of-type, .content > .section-head:first-of-type{margin-top:18px}
 
