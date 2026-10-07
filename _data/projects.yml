@@ -5,6 +5,7 @@ bridge_engineering:
     location: "Rotterdam, The Netherlands"
     description: "Conducted archival research of historical drawings, developed substructure models, and performed option evaluations to help identify a preferred replacement strategy."
     image: "images/projects/HVB.jpg"
+    detail_url: "/projects/haringvliet_bridge_replacement/"
   - title: "Parkhaven Bridge Design"
     org: "TU Delft"
     year: 2024

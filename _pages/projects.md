@@ -16,7 +16,7 @@ permalink: /projects/
       <div class="thumb">{% if it.url %}<a href="{{ it.url }}" target="_blank" rel="noopener">{% endif %}<img src="{{ it.image | relative_url }}" alt="{{ it.title }}">{% if it.url %}</a>{% endif %}</div>
       <div class="body">
         <p class="venue">{{ it.org }}{% if it.year %} &middot; {{ it.year }}{% endif %}</p>
-        <h3 class="title">{% if it.url %}<a href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>{% else %}{{ it.title }}{% endif %}</h3>
+        <h3 class="title">{% if it.detail_url %}<a href="{{ it.detail_url | relative_url }}">{{ it.title }}</a>{% elsif it.url %}<a href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>{% else %}{{ it.title }}{% endif %}</h3>
         {% if it.location %}<p class="ploc">{{ it.location }}</p>{% endif %}
         {% if it.description %}<p class="pdesc">{{ it.description }}</p>{% endif %}
       </div>
