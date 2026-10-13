@@ -1,0 +1,20 @@
+---
+layout: clean
+permalink: /projects/parkhaven_bridge_design/
+---
+
+<img class="project-detail-image" src="{{ '/images/projects/Parkhaven.jpg' | relative_url }}" alt="Parkhaven Bridge Design">
+
+<h1 class="page-title">Parkhaven Bridge Design</h1>
+
+<p>
+    <br> As part of a university course, I joined a multidisciplinary design team (Architects & Engineers) and contributed to the conceptual and structural development of a new pedestrian–cyclist bridge across Parkhaven in Rotterdam. The project involved a site analysis, integration of future municipal plans, and the creation of a green mobility corridor linking key urban areas. I worked on developing multiple bridge typologies and iterations. My responsibilities included structural analysis (moment/shear modelling, load cases, and stability checks), cross‑section development, and design refinement of the truss and arch system.
+</p>
+
+  <h2>Skills learned</h2>
+
+  <ul>
+    <li> Rhino & Grasshopper </li>
+    <li> Adobe InDesign </li>
+    <li> Adobe Illustrator </li>
+  </ul>

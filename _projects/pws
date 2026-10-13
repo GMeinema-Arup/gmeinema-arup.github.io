@@ -1,0 +1,18 @@
+---
+layout: clean
+permalink: /projects/pws/
+---
+
+<img class="project-detail-image" src="{{ '/images/projects/PWS.jpg' | relative_url }}" alt="Profielwerkstuk">
+
+<h1 class="page-title">Profielwerkstuk</h1>
+
+<p>
+    <br> Designed and built a scale cable-stayed bridge, applying structural principles such as load transfer, equilibrium, and tension-compression behaviour.
+</p>
+
+  <h2>Skills learned</h2>
+
+  <ul>
+    <li> Basic Structural Engineering </li>
+  </ul>

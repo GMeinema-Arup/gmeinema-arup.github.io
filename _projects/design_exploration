@@ -1,0 +1,19 @@
+---
+layout: clean
+permalink: /projects/design_exploration/
+---
+
+<img class="project-detail-image" src="{{ '/images/projects/Design_Exploration.jpg' | relative_url }}" alt="Design Exploration">
+
+<h1 class="page-title">Design Exploration</h1>
+
+<p>
+    <br> Self-study on the design of the Haringvlietbrug substructure, to get familiar with design exploration using Colibri and Grasshopper.
+</p>
+
+  <h2>Skills learned</h2>
+
+  <ul>
+    <li> Rhino & Grasshopper </li>
+    <li> Colibri Plugin </li>
+  </ul>

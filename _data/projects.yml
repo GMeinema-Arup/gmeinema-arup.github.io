@@ -12,24 +12,28 @@ bridge_engineering:
     location: "Rotterdam, The Netherlands"
     description: "Designed a new pedestrian and cycling bridge over the Parkhaven in Rotterdam. The project involved site and context analyses, comparison of bridge concepts, and creating a final design proposal."
     image: "images/projects/Parkhaven.jpg"
+    detail_url: "/projects/parkhaven_bridge_design/"
   - title: "Master Thesis"
     org: "TU Delft"
     year: 2025
     location: "Delft, The Netherlands"
     description: "Investigated the assessment and strengthening of prestressed concrete T-girders, focusing on residual capacity and life extension strategies."
     image: "images/projects/MSc_Thesis.jpg"
+    detail_url: "/projects/master_thesis/"
   - title: "ARP"
     org: "Arup Amsterdam"
     year: 2025
     location: "Amsterdam, The Netherlands"
     description: "Developed the reference calculation for prefab infill girders as the technical basis for an automated bridge assessment procedure."
     image: "images/projects/ARP.jpg"
+    detail_url: "/projects/arp/"
   - title: "Design Exploration"
     org: "Arup Amsterdam"
     year: 2026
     location: "Amsterdam, The Netherlands"
     description: "Self-study on the design of the Haringvlietbrug substructure, to get familiar with design exploration using Colibri and Grasshopper."
     image: "images/projects/Design_Exploration.jpg"
+    detail_url: "/projects/design_exploration/"
 
 non_profit:
   - title: "Multi-Disciplinary Project"
@@ -38,9 +42,11 @@ non_profit:
     location: "Suriname"
     description: "As trainee at STEORR, I developed flood protection measures for Ricanau Mofo, Suriname."
     image: "/images/projects/MDP.jpg"
+    detail_url: "/projects/multi_disciplinary_project/"
   - title: "PWS"
     org: "Stedelijk Gymnasium Nijmegen"
     year: 2017
     location: "Nijmegen, The Netherlands"
     description: "Designed and built a scale cable-stayed bridge, applying structural principles such as load transfer, equilibrium, and tension-compression behaviour."
     image: "images/projects/PWS.jpg"
+    detail_url: "/projects/pws/"

@@ -1,0 +1,18 @@
+---
+layout: clean
+permalink: /projects/master_thesis/
+---
+
+<img class="project-detail-image" src="{{ '/images/projects/MSc_Thesis.jpg' | relative_url }}" alt="Master Thesis">
+
+<h1 class="page-title">Master Thesis</h1>
+
+<p>
+    <br> Framework for evaluating strengthening methods of prestressed concrete bridge girders
+</p>
+
+  <h2>Skills learned</h2>
+
+  <ul>
+    <li> Python </li>
+  </ul>

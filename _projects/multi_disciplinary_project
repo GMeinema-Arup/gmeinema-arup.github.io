@@ -1,0 +1,19 @@
+---
+layout: clean
+permalink: /projects/multi_disciplinary_project/
+---
+
+<img class="project-detail-image" src="{{ '/images/projects/MDP.jpg' | relative_url }}" alt="Multi-Disciplinary Project">
+
+<h1 class="page-title">Mutli-Disciplinary Project</h1>
+
+<p>
+    <br> Research on waterlogging and interventions in Ricanau Mofo
+</p>
+
+  <h2>Skills learned</h2>
+
+  <ul>
+    <li> Stakeholder engagement </li>
+    <li> Non-Profit </li>
+  </ul>
