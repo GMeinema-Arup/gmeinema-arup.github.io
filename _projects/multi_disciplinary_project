@@ -21,10 +21,10 @@ permalink: /projects/multi_disciplinary_project/
     <li> Nature-based solutions </li>
   </ul>
 
-<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_1.jpg' | relative_url }}" alt="MDP Impression 1">
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_1.JPG' | relative_url }}" alt="MDP Impression 1">
 
-<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_2.jpg' | relative_url }}" alt="MDP Impression 2">
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_2.JPG' | relative_url }}" alt="MDP Impression 2">
   
-<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_3.jpg' | relative_url }}" alt="MDP Impression 3">
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_3.JPG' | relative_url }}" alt="MDP Impression 3">
   
-<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_4.jpg' | relative_url }}" alt="MDP Impression 4">
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_4.JPG' | relative_url }}" alt="MDP Impression 4">

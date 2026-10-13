@@ -23,5 +23,5 @@ permalink: /projects/parkhaven_bridge_design/
   
 <img class="project-detail-image" src="{{ '/images/projects/Bridge_Design_Impression_2.jpg' | relative_url }}" alt="Bridge Design Impression 2">
   
-<img class="project-detail-image" src="{{ '/images/projects/Bridge_Design_Impression_3.jpg' | relative_url }}" alt="Bridge Design Impression 3">
+<img class="project-detail-image" src="{{ '/images/projects/Bridge_Design_Impression_3.png' | relative_url }}" alt="Bridge Design Impression 3">
   
