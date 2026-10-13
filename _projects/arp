@@ -8,7 +8,7 @@ permalink: /projects/arp/
 <h1 class="page-title">Automatische Reken Procedure</h1>
 
 <p>
-    <br> As part of Rijkswaterstaat’s Constructieve Veiligheid op Orde (CVoO) programme, Guus worked on the moederberekening for the prefab‑volstortligger bridge type. This master calculation forms the technical basis for developing the Automatische Reken Procedure (ARP) for assessing existing viaducts built with precast prestressed beams and cast‑in‑place topping. His contribution covered interpreting the RBK/ROK requirements, building and validating the SCIA orthotropic plate model, analysing governing load cases, and performing the structural verification according to the current and future Eurocode.
+    <br> As part of Rijkswaterstaat’s Constructieve Veiligheid op Orde (CVoO) programme, I worked on the master calculation for the so-called "Volstortligger" type. This master calculation forms the technical basis for developing the Automatische Reken Procedure (ARP) for assessing existing viaducts built with precast prestressed beams and cast‑in‑place topping. My contribution covered interpreting the RBK/ROK requirements, building and validating the SCIA orthotropic plate model, analysing governing load cases, and performing the structural verification according to the current and future Eurocode.
 </p>
 
   <h2>Skills learned</h2>
@@ -16,4 +16,5 @@ permalink: /projects/arp/
   <ul>
     <li> SCIA </li>
     <li> Excel </li>
+    <li> Application of EuroCode/RBK </li>    
   </ul>

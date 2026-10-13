@@ -8,12 +8,23 @@ permalink: /projects/multi_disciplinary_project/
 <h1 class="page-title">Mutli-Disciplinary Project</h1>
 
 <p>
-    <br> Research on waterlogging and interventions in Ricanau Mofo
+    <br> Contributed to a multidisciplinary climate adaptation study for Ricanau Mofo, Suriname, developing practical strategies to reduce erosion and water-related damage. The project combined nature-based solutions, riverbank protection, flood-resilient urban planning, and funding strategies to improve long-term resilience while respecting local cultural and economic constraints. The resulting framework and prototype interventions provide a scalable approach for climate adaptation in vulnerable river communities.
+    
+    Please find the report <strong><a href="https://repository.tudelft.nl/record/uuid:3fa2160c-f2e2-4f81-90d8-9a6f56f856ed" target="_blank" rel="noopener noreferrer">here</a></strong>.
 </p>
 
   <h2>Skills learned</h2>
 
   <ul>
     <li> Stakeholder engagement </li>
-    <li> Non-Profit </li>
+    <li> Non-Profit work </li>
+    <li> Nature-based solutions </li>
   </ul>
+
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_1.jpg' | relative_url }}" alt="MDP Impression 1">
+
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_2.jpg' | relative_url }}" alt="MDP Impression 2">
+  
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_3.jpg' | relative_url }}" alt="MDP Impression 3">
+  
+<img class="project-detail-image" src="{{ '/images/projects/MDP_Impression_4.jpg' | relative_url }}" alt="MDP Impression 4">
