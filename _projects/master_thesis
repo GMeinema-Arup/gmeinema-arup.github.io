@@ -19,6 +19,8 @@ permalink: /projects/master_thesis/
     <li> Python </li>
   </ul>
 
+<h3>Images</h3>
+
 <img class="project-detail-image" src="{{ '/images/projects/MSc_Thesis_Impression_1.jpg' | relative_url }}" alt="MSc Thesis Impression 1">
 
 <img class="project-detail-image" src="{{ '/images/projects/MSc_Thesis_Impression_2.png' | relative_url }}" alt="MSc Thesis Impression 2">
