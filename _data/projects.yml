@@ -6,13 +6,13 @@ bridge_engineering:
     description: "Conducted archival research of historical drawings, developed substructure models, and performed option evaluations to help identify a preferred replacement strategy."
     image: "images/projects/HVB.jpg"
     detail_url: "/projects/haringvliet_bridge_replacement/"
-  - title: "Parkhaven Bridge Design"
-    org: "TU Delft"
-    year: 2024
-    location: "Rotterdam, The Netherlands"
-    description: "Designed a new pedestrian and cycling bridge over the Parkhaven in Rotterdam. The project involved site and context analyses, comparison of bridge concepts, and creating a final design proposal."
-    image: "images/projects/Parkhaven.jpg"
-    detail_url: "/projects/parkhaven_bridge_design/"
+  - title: "Design Exploration"
+    org: "Arup Amsterdam"
+    year: 2026
+    location: "Amsterdam, The Netherlands"
+    description: "Self-study on the design of the Haringvlietbrug substructure, to get familiar with design exploration using Colibri and Grasshopper."
+    image: "images/projects/Design_Exploration.jpg"
+    detail_url: "/projects/design_exploration/"
   - title: "Master Thesis"
     org: "TU Delft"
     year: 2025
@@ -27,13 +27,13 @@ bridge_engineering:
     description: "Developed the reference calculation for prefab infill girders as the technical basis for an automated bridge assessment procedure."
     image: "images/projects/ARP.jpg"
     detail_url: "/projects/arp/"
-  - title: "Design Exploration"
-    org: "Arup Amsterdam"
-    year: 2026
-    location: "Amsterdam, The Netherlands"
-    description: "Self-study on the design of the Haringvlietbrug substructure, to get familiar with design exploration using Colibri and Grasshopper."
-    image: "images/projects/Design_Exploration.jpg"
-    detail_url: "/projects/design_exploration/"
+  - title: "Parkhaven Bridge Design"
+    org: "TU Delft"
+    year: 2024
+    location: "Rotterdam, The Netherlands"
+    description: "Designed a new pedestrian and cycling bridge over the Parkhaven in Rotterdam. The project involved site and context analyses, comparison of bridge concepts, and creating a final design proposal."
+    image: "images/projects/Parkhaven.jpg"
+    detail_url: "/projects/parkhaven_bridge_design/"
 
 non_profit:
   - title: "Multi-Disciplinary Project"
